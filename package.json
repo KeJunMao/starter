@@ -1,0 +1,15 @@
+{
+  "name": "@kejun/starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "up": "taze -w -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "taze": "^0.8.2"
+  }
+}
