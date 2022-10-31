@@ -3,16 +3,16 @@
 This starter templates is only for me :)
 
 ```bash
-npx degit github:kejunmao/starter/{*} my-app
+npx giget gh:kejunmao/starter/{*} my-app
 ```
 
 ## Templates
 
 - [x] TypeScript + Node
   ```
-  npx degit github:kejunmao/starter/ts my-app
+  npx giget gh:kejunmao/starter/ts my-app
   ```
 - [x] Vite + Vue
   ```
-  npx degit github:kejunmao/starter/vite-vue my-app
+  npx giget gh:kejunmao/starter/vite-vue my-app
   ```
