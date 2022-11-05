@@ -44,12 +44,12 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "@types/node": "^18.11.8",
+    "@types/node": "^18.11.9",
     "bumpp": "^8.2.1",
     "esno": "^0.16.3",
     "typescript": "^4.8.4",
     "unbuild": "^0.9.4",
-    "vite": "^3.2.1",
-    "vitest": "^0.24.3"
+    "vite": "^3.2.2",
+    "vitest": "^0.24.5"
   }
 }
