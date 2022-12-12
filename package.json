@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "up": "taze -w -r"
+    "up": "taze -w -r -I"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "taze": "^0.8.3"
+    "taze": "^0.8.4"
   }
 }
