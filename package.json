@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "taze": "^0.8.4"
+    "taze": "^0.9.1"
   }
 }
