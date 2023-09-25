@@ -16,3 +16,7 @@ npx giget gh:kejunmao/starter/{*} my-app
   ```
   npx giget gh:kejunmao/starter/vite-vue my-app
   ```
+- [x] Nuxt
+  ```
+  npx giget gh:kejunmao/starter/nuxt my-app
+  ```
