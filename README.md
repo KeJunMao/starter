@@ -10,7 +10,7 @@ npx giget gh:kejunmao/starter/{*} my-app
 
 - [x] TypeScript + Node
   ```
-  npx giget gh:kejunmao/starter/ts my-app
+  npx giget gh:kejunmao/starter/ts my-lib
   ```
 - [x] Vite + Vue
   ```
@@ -19,4 +19,8 @@ npx giget gh:kejunmao/starter/{*} my-app
 - [x] Nuxt
   ```
   npx giget gh:kejunmao/starter/nuxt my-app
+  ```
+- [x] VS Code Extensions
+  ```
+  npx giget gh:kejunmao/starter/vscode-ext my-ext
   ```
