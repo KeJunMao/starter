@@ -46,11 +46,15 @@
     "prepublishOnly": "pnpm build",
     "release": "bumpp",
     "start": "esno src/index.ts",
-    "test": "vitest"
+    "test": "vitest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "1.0.0-beta.27",
     "@types/node": "^20.6.5",
     "bumpp": "^9.2.0",
+    "eslint": "^8.51.0",
     "esno": "^0.17.0",
     "typescript": "^5.2.2",
     "unbuild": "^2.0.0",

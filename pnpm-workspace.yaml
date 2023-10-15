@@ -2,3 +2,4 @@ workspace:
   - ts
   - vite-vue
   - nuxt
+  - vscode-ext
